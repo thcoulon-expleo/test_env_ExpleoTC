@@ -1,0 +1,4 @@
+request()
+{
+// fonction OK
+}
